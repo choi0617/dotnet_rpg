@@ -394,6 +394,8 @@ coverage*.info
 *.appxbundle
 *.appxupload
 
+*.db
+
 # Visual Studio cache files
 # files ending in .cache can be ignored
 # but keep track of directories ending in .cache
