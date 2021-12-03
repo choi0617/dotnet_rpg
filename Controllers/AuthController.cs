@@ -1,13 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
 using System.Threading.Tasks;
 using dotnet_rpg.Data;
 using dotnet_rpg.Dtos.User;
 using dotnet_rpg.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 
 namespace dotnet_rpg.Controllers
 {
